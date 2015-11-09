@@ -1,7 +1,5 @@
 # Javascript_Functions
-Javascript Functions
+Javascript Functions Colection
 
-This function will automatic add target="_blank" and rel="nofollow" to "a" html tag.
-
-If link href is internal, do not anything.<br>
-If link href is external, add target="_blank" and rel="nofollow".
+1. Auto add target="_blank" to external link:  add_target_blank_external_link.html
+2. Item 2
